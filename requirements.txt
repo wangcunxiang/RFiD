@@ -1,0 +1,7 @@
+numpy
+torch
+faiss-cpu
+transformers==4.16.0
+tensorboard
+wandb>=0.12.21
+SentencePiece
