@@ -78,9 +78,9 @@ CUDA_VISIBLE_DEVICES=X python test_reader.py \
         --checkpoint_dir checkpoint
 ```
 
-[//]: # (## Checkpoints)
+## Checkpoints
 
-[//]: # (We release our best-performed checkpoints on Natural Questions and TriviaQA publically.)
+The best-performed RFiD checkpoint on Natural Questions is [here](https://drive.google.com/file/d/1q7UC2rFxtxb3dM0946dvJnWxm4ljTge1/view?usp=sharing).
 
 
 # 📝 Data
